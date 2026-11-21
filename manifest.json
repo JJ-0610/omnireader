@@ -1,0 +1,18 @@
+{
+  "name": "OmniReader - 크로스 플랫폼 PWA 이북리더",
+  "short_name": "OmniReader",
+  "description": "TXT, EPUB, PDF 멀티 포맷 지원 · TTS 스마트 필터 · E-Ink 고대비 · 하이라이트 마크다운 내보내기",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
